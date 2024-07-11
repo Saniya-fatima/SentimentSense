@@ -3,6 +3,10 @@
 
 Sentiment Sense is a project that combines the power of VADER sentiment analysis with RoBERTa-based sentiment classification to analyze the sentiment of textual data.
 
+![Screenshot 2024-07-11 130828](https://github.com/Saniya-fatima/SentimentSense/assets/122198174/3514311e-a6fb-4931-88b2-58f2a936d599)
+![Screenshot 2024-07-11 130813](https://github.com/Saniya-fatima/SentimentSense/assets/122198174/bc4c6e34-b5d5-4fac-a5d7-9ff36c92e263)
+![Screenshot 2024-07-11 130745](https://github.com/Saniya-fatima/SentimentSense/assets/122198174/668bf857-c822-4957-b2bf-dd34104d9807)
+
 ## Overview
 
 This project uses two main approaches to analyze sentiment:
